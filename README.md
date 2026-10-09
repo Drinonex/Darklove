@@ -15,4 +15,4 @@ A generative typographic art experiment in Python that renders a heart silhouett
 ## How to Run
 
 ```bash
-python heart.py
+python love.py
